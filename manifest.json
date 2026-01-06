@@ -1,0 +1,82 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Kid A",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "theme_ntp_background.png",
+      "theme_frame": "theme_frame.png",
+      "theme_button_background": "theme_button_background.png",
+      "theme_tab_background": "theme_tab_background.png"
+    },
+    "colors": {
+      "frame": [
+        13,
+        9,
+        6
+      ],
+      "ntp_background": [
+        13,
+        9,
+        6
+      ],
+      "tab_text": [
+        188,
+        200,
+        212
+      ],
+      "tab_background_text": [
+        182,
+        184,
+        186
+      ],
+      "bookmark_text": [
+        189,
+        194,
+        199
+      ],
+      "ntp_text": [
+        231,
+        232,
+        227
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_header": [
+        189,
+        194,
+        199
+      ],
+      "toolbar": [
+        33,
+        16,
+        16
+      ],
+      "toolbar_text": [
+        189,
+        194,
+        199
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "toolbar_button_icon": [
+        189,
+        194,
+        199
+      ]
+    },
+    "tints": {},
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+  "description": "Kid A - Radiohead"
+}
