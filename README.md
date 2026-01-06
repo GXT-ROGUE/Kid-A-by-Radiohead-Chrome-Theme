@@ -1,12 +1,8 @@
 Made this theme for myself but free for anyone to use/modify.
 
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/4b540521-ead0-45f7-a004-881609003369" />
 
-
-<img src="H:\\\\Screenshot1.png">
-
-<img src="H:\\\\Screenshot2.png">
-
-
+<img width="1919" height="1028" alt="Image" src="https://github.com/user-attachments/assets/8d2c7649-7231-4064-bc11-525154f6bbbc" />
 
 ### **How to Install**
 
